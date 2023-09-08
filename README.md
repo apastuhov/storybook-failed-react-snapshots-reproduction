@@ -31,3 +31,7 @@ Run `pnpm test`.
 ## Note
 
 Also does not work with `npm test`.
+
+# Workaround
+
+Add `"jest-resolve": "^29.6.4"` to resolutions in `package.json`.
