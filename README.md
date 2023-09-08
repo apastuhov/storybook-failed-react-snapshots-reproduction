@@ -20,3 +20,11 @@
   yarn storybook
 </pre>
 
+
+# How to reproduce
+
+Create sandbox for latest Create React App and TS.
+
+Add `storybook.test.ts` to your project.
+
+Run `pnpm test`.
